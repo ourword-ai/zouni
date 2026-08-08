@@ -1,0 +1,15 @@
+{
+  "name": "走你 · 计划赶得上变化",
+  "short_name": "走你",
+  "description": "AI 旅行攻略：最简点选出一份能直接走、路上会自己重排的行程",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f0ec",
+  "theme_color": "#f0f0ec",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
